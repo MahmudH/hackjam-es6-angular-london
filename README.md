@@ -9,7 +9,7 @@ To deploy it, you can use surge.sh (`npm run deploy`)
 
 ### Tools:
 
-[![Join the chat at https://gitter.im/Philos-io/hackjam-es6-angular-london](https://badges.gitter.im/Philos-io/hackjam-es6-angular.svg)](https://gitter.im/Philos-io/hackjam-es6-angular?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Philos-io/JS-LAB-London](https://badges.gitter.im/Philos-io/hackjam-es6-angular.svg)](https://gitter.im/Philos-io/JS-LAB-London?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Webpack
 * Babel
 * nodemon
