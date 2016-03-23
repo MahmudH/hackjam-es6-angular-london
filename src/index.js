@@ -14,10 +14,6 @@ import bookListCtrl from './modules//book/list/booklistcontroller'
 
   var mainBody = () => { angular.bootstrap(document.body, ['bookstore']); };
 
-  // document.addEventListener('DOMContentLoaded',() => {
-  //   angular.bootstrap(document.body, ['bookstore']);
-  // });
-
   document.addEventListener('DOMContentLoaded', mainBody);
 
 // })();
